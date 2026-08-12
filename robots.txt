@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-atnykc.v3lab.com.br/sitemap.xml
